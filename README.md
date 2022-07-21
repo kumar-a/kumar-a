@@ -22,14 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Repos
-
-* [abhikumar86.github.io](https://github.com/Abhikumar86/abhikumar86.github.io/)  
-* [my-publications](https://github.com/Abhikumar86/my-publications)
-* [my-website](https://github.com/Abhikumar86/my-website/)
-* [botany-book](https://github.com/Abhikumar86/botany-book/)
-* [ecology-jcr](https://github.com/Abhikumar86/ecology-jcr/)
-
 ## 💼 Technical Skills
 
 <p align="center">
@@ -48,7 +40,7 @@ Here are some ideas to get you started:
 
 - Anand Narain Singh, **Abhishek Kumar** (2022). Ecological performances of exotic and native woody species on coal mine spoil in Indian dry tropical region. *Ecological Engineering, 174*, 106470. <https://doi.org/10.1016/j.ecoleng.2021.106470>
 
-- Anand Narain Singh, **Abhishek Kumar** (2022). Comparative soil restoration potential of exotic and native woody plantations on coal mine spoil in a dry tropical environment of India: A case study. *Land Degradation & Development, 00*(00), 00-00. <https://doi.org/10.1002/ldr.4286>
+- Anand Narain Singh, **Abhishek Kumar** (2022). Comparative soil restoration potential of exotic and native woody plantations on coal mine spoil in a dry tropical environment of India: A case study. *Land Degradation & Development, 33*(12), 1971--1984. <https://doi.org/10.1002/ldr.4286>
 
 - Pardeep Kumar, **Abhishek Kumar**, Meenu Patil, Nitin Kumar Sharma, Anand Narain Singh (2022). Herbaceous vegetation under planted woody species on coal mine spoil acts as a source of organic matter. *Acta Oecologica, 114*, 103809. <https://doi.org/10.1016/j.actao.2021.103809>
 
