@@ -1,4 +1,4 @@
-# Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Kumar
+# Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm *Abhishek Kumar*
 
 <p align="center">
   <a href="https://orcid.org/0000-0003-2252-7623"><img src="https://img.shields.io/badge/ORCID-A6CE39?&style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID"></a>
@@ -7,6 +7,9 @@
   <a href="https://scholar.google.co.in/citations?user=ugmCylsAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white&color=blue" alt="Google Scholar"></a>
   <a href="https://www.researchgate.net/profile/Abhishek-Kumar-331"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""></a>
 </p>
+
+
+I am working as a senior research fellow at the Department of Botany of Panjab University, Chandigarh. My research interests include the responses of ecological structure and functions to climate change. Currently, I am working on the elevational pattern of plant distributions and diversity in the Siwalik Ecosystem.
 
 <!--
 **Abhikumar86/abhikumar86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,21 +26,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🎓 Education
-
-| <a href="https://puchd.ac.in"><img src="https://akumar.netlify.app/media/icons/brands/pu-logo.svg" height=75 width=75 alt="PU"></a> | [Panjab University, Chandigarh](https://puchd.ac.in) |
-| ------| ------- |
-
-## 💼 Technical Skills
+## 💼 Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio">
-  <img src="https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=Mendeley&logoColor=white" alt="Mendeley">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint">
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
-  <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Adobe">
+  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
+  <a href="https://www.rstudio.com/"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio"></a>
+  <a href="https://www.mendeley.com/"><img src="https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=Mendeley&logoColor=white" alt="Mendeley"></a>
+  <a href="https://www.office.com/"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office"></a>
 </p>
 
 
