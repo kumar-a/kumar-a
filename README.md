@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## 📝 Selected Publications
 
-- **Abhishek Kumar**, Meenu Patil, Pardeep Kumar, Manoj Kumar, Anand Narain Singh (2022). Plant ecology in Indian Siwalik range: a systematic map and its bibliometric analysis. *Tropical Ecology, 00*(00), 00-00. <https://doi.org/10.1007/s42965-022-00229-x>
+- **Abhishek Kumar**, Meenu Patil, Pardeep Kumar, Manoj Kumar, Anand Narain Singh (2022). Plant ecology in Indian Siwalik range: a systematic map and its bibliometric analysis. *Tropical Ecology, 63*(3), 338-350. <https://doi.org/10.1007/s42965-022-00229-x>
 
 - Anand Narain Singh, **Abhishek Kumar** (2022). Ecological performances of exotic and native woody species on coal mine spoil in Indian dry tropical region. *Ecological Engineering, 174*, 106470. <https://doi.org/10.1016/j.ecoleng.2021.106470>
 
