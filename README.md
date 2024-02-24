@@ -1,4 +1,4 @@
-# Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm *Abhishek Kumar*
+# Hi folks! I'm *Abhishek Kumar*
 
 <p align="center">
   <a href="https://orcid.org/0000-0003-2252-7623"><img src="https://img.shields.io/badge/ORCID-A6CE39?&style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID"></a>
@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 
 ## 📝 Selected Publications
+
+- Pardeep Kumar, **Abhishek Kumar**, Meenu Patil, Sabir Hussain, Anand Narain Singh (2024). Factors influencing tree biomass and carbon stock in the Western Himalayas, India. *Frontiers in Forests and Global Change, 6*, 1328694. <https://doi.org/10.3389/ffgc.2023.1328694>
 
 - **Abhishek Kumar**, Meenu Patil, Pardeep Kumar, Manoj Kumar, Anand Narain Singh (2022). Plant ecology in Indian Siwalik range: a systematic map and its bibliometric analysis. *Tropical Ecology, 63*(3), 338-350. <https://doi.org/10.1007/s42965-022-00229-x>
 
