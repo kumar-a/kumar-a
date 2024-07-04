@@ -38,17 +38,19 @@ Here are some ideas to get you started:
 
 ## 📝 Selected Publications
 
-- Pardeep Kumar, **Abhishek Kumar**, Meenu Patil, Sabir Hussain, Anand Narain Singh (2024). Factors influencing tree biomass and carbon stock in the Western Himalayas, India. *Frontiers in Forests and Global Change, 6*, 1328694. <https://doi.org/10.3389/ffgc.2023.1328694>
+- **Kumar, A.**, Kumar, P., Patil, M., Hussain, S., Yadav, R., Sharma, S., Tokas, D., Singh, S., & Singh, A. N. (2024). Disturbance and vegetational structure in an urban forest of Indian Siwaliks: an ecological assessment. *Environmental Monitoring and Assessment 196*, 691. <https://doi.org/10.1007/s10661-024-12801-0>
 
-- **Abhishek Kumar**, Meenu Patil, Pardeep Kumar, Manoj Kumar, Anand Narain Singh (2022). Plant ecology in Indian Siwalik range: a systematic map and its bibliometric analysis. *Tropical Ecology, 63*(3), 338-350. <https://doi.org/10.1007/s42965-022-00229-x>
+- Kumar, P., **Kumar, A.**, Patil, M., Hussain, S., & Singh, A. N. (2024). Factors influencing tree biomass and carbon stock in the Western Himalayas, India. *Frontiers in Forests and Global Change, 6*, 1328694. <https://doi.org/10.3389/ffgc.2023.1328694>
 
-- Anand Narain Singh, **Abhishek Kumar** (2022). Ecological performances of exotic and native woody species on coal mine spoil in Indian dry tropical region. *Ecological Engineering, 174*, 106470. <https://doi.org/10.1016/j.ecoleng.2021.106470>
+- **Kumar, A.**, Patil, M., Kumar, P., Kumar, M., & Singh, A. N. (2022). Plant ecology in Indian Siwalik range: a systematic map and its bibliometric analysis. *Tropical Ecology, 63*(3), 338-350. <https://doi.org/10.1007/s42965-022-00229-x>
 
-- Anand Narain Singh, **Abhishek Kumar** (2022). Comparative soil restoration potential of exotic and native woody plantations on coal mine spoil in a dry tropical environment of India: A case study. *Land Degradation & Development, 33*(12), 1971-1984. <https://doi.org/10.1002/ldr.4286>
+- Singh, A. N., & **Kumar, A.** (2022b). Comparative soil restoration potential of exotic and native woody plantations on coal mine spoil in a dry tropical environment of India: A case study. *Land Degradation & Development, 33*(12), 1971-1984. <https://doi.org/10.1002/ldr.4286>
 
-- Pardeep Kumar, **Abhishek Kumar**, Meenu Patil, Nitin Kumar Sharma, Anand Narain Singh (2022). Herbaceous vegetation under planted woody species on coal mine spoil acts as a source of organic matter. *Acta Oecologica, 114*, 103809. <https://doi.org/10.1016/j.actao.2021.103809>
+- Singh, A. N., & **Kumar, A.** (2022a). Ecological performances of exotic and native woody species on coal mine spoil in Indian dry tropical region. *Ecological Engineering, 174*, 106470. <https://doi.org/10.1016/j.ecoleng.2021.106470>
 
-- Meenu Patil, **Abhishek Kumar**, Pardeep Kumar, Navneet Kaur Cheema, Rupinder Kaur, Ram Chand Bhatti, Anand Narain Singh (2020). Comparative litter decomposability traits of selected native and exotic woody species from an urban environment of north-western Siwalik region, India. *Scientific Reports, 10*, 7888. <https://doi.org/10.1038/s41598-020-64576-2>
+- Kumar, P., **Kumar, A.**, Patil, M., Sharma, N. K., & Singh, A. N. (2022). Herbaceous vegetation under planted woody species on coal mine spoil acts as a source of organic matter. *Acta Oecologica, 114*, 103809. <https://doi.org/10.1016/j.actao.2021.103809>
+
+- Patil, M., **Kumar, A.**, Kumar, P., Cheema, N. K., Kaur, R., Bhatti, R. C., & Singh, A. N. (2020). Comparative litter decomposability traits of selected native and exotic woody species from an urban environment of north-western Siwalik region, India. *Scientific Reports, 10*, 7888. <https://doi.org/10.1038/s41598-020-64576-2>
 
 ## Contact Me
 
