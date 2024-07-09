@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## 📝 Selected Publications
 
-- **Kumar, A.**, Kumar, P., Patil, M., Hussain, S., Yadav, R., Sharma, S., Tokas, D., Singh, S., & Singh, A. N. (2024). Disturbance and vegetational structure in an urban forest of Indian Siwaliks: an ecological assessment. *Environmental Monitoring and Assessment 196*, 691. <https://doi.org/10.1007/s10661-024-12801-0>
+- **Kumar, A.**, Kumar, P., Patil, M., Hussain, S., Yadav, R., Sharma, S., Tokas, D., Singh, S., & Singh, A. N. (2024). Disturbance and vegetational structure in an urban forest of Indian Siwaliks: an ecological assessment. *Environmental Monitoring and Assessment 196*(8), 691. <https://doi.org/10.1007/s10661-024-12801-0>
 
 - Kumar, P., **Kumar, A.**, Patil, M., Hussain, S., & Singh, A. N. (2024). Factors influencing tree biomass and carbon stock in the Western Himalayas, India. *Frontiers in Forests and Global Change, 6*, 1328694. <https://doi.org/10.3389/ffgc.2023.1328694>
 
