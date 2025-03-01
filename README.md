@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 ## 📝 Selected Publications
 
+- Shome, A., **Kumar, A.**, Singh, A. N., & Phartyal, S. S. (2025). Assessing the importance of Indian wetland plants for multiple ecosystem services using trait‑service linkage framework. *Wetlands Ecology and Management, 33*(2), 23. <https://doi.org/10.1007/s11273-025-10039-2>
+
 - **Kumar, A.**, Patil, M., Kumar, P., & Singh, A. N. (2024). Determinants of Plant Species Richness Along Elevational Gradients: Insights with Climate, Energy and Water-Energy Dynamics. *Ecological Processes, 13*, 86. <https://doi.org/10.1186/s13717-024-00563-z>
 
 - **Kumar, A.**, Kumar, P., Patil, M., Hussain, S., Yadav, R., Sharma, S., Tokas, D., Singh, S., & Singh, A. N. (2024). Disturbance and vegetational structure in an urban forest of Indian Siwaliks: an ecological assessment. *Environmental Monitoring and Assessment 196*(8), 691. <https://doi.org/10.1007/s10661-024-12801-0>
