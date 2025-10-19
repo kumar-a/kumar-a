@@ -1,8 +1,10 @@
 # Hi folks! I'm *Abhishek Kumar*
 
+<!-- https://badges.pages.dev/ and https://simpleicons.org/ -->
+
 <p align="center">
   <a href="https://orcid.org/0000-0003-2252-7623"><img src="https://img.shields.io/badge/ORCID-A6CE39?&style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID"></a>
-  <a href="https://publons.com/researcher/1578460/abhishek-kumar"><img src="https://img.shields.io/badge/Publons-336699?&style=for-the-badge&logo=Publons&logoColor=white" alt="Publons"></a>
+  <a href="https://www.webofscience.com/wos/author/record/T-1462-2018"><img src="https://img.shields.io/badge/Web of Science-5E33C0?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science"></a>
   <a href="http://www.scopus.com/inward/authorDetails.url?authorID=57216227909&partnerID=MN8TOARS"><img src="https://img.shields.io/badge/Scopus-E9711C?&style=for-the-badge&logo=Scopus&logoColor=white" alt="Scopus"></a>
   <a href="https://scholar.google.co.in/citations?user=ugmCylsAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white&color=blue" alt="Google Scholar"></a>
   <a href="https://www.researchgate.net/profile/Abhishek-Kumar-331"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""></a>
@@ -30,13 +32,15 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
-  <a href="https://www.rstudio.com/"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio"></a>
+  <a href="https://www.rstudio.com/"><img src="https://img.shields.io/badge/RStudio%20IDE-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" alt="RStudio"></a>
   <a href="https://www.mendeley.com/"><img src="https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=Mendeley&logoColor=white" alt="Mendeley"></a>
   <a href="https://www.office.com/"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office"></a>
 </p>
 
 
 ## 📝 Selected Publications
+
+- **Kumar, A.**, Patil, M., Kumar, P., & Singh, A. N. (2025). Elevational Patterns of Plant Species Richness: Insights from Western Himalayas. *Forests, 16*(10), 1591. <https://doi.org/10.3390/f16101591>
 
 - Shome, A., **Kumar, A.**, Singh, A. N., & Phartyal, S. S. (2025). Assessing the importance of Indian wetland plants for multiple ecosystem services using trait‑service linkage framework. *Wetlands Ecology and Management, 33*(2), 23. <https://doi.org/10.1007/s11273-025-10039-2>
 
@@ -60,7 +64,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="mailto:abhikumar.pu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"></a>
-  <a href="https://twitter.com/abkumar_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://x.com/abkumar_"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://facebook.com/abhikumar86"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://www.linkedin.com/in/abhikumar86/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 </p>
