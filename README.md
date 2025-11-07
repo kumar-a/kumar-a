@@ -3,11 +3,12 @@
 <!-- https://badges.pages.dev/ and https://simpleicons.org/ -->
 
 <p align="center">
-  <a href="https://orcid.org/0000-0003-2252-7623"><img src="https://img.shields.io/badge/ORCID-A6CE39?&style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID"></a>
-  <a href="https://www.webofscience.com/wos/author/record/T-1462-2018"><img src="https://img.shields.io/badge/Web of Science-5E33C0?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science"></a>
-  <a href="http://www.scopus.com/inward/authorDetails.url?authorID=57216227909&partnerID=MN8TOARS"><img src="https://img.shields.io/badge/Scopus-E9711C?&style=for-the-badge&logo=Scopus&logoColor=white" alt="Scopus"></a>
-  <a href="https://scholar.google.co.in/citations?user=ugmCylsAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white&color=blue" alt="Google Scholar"></a>
-  <a href="https://www.researchgate.net/profile/Abhishek-Kumar-331"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt=""></a>
+  <a href="https://orcid.org/0000-0003-2252-7623"><img src="https://img.shields.io/badge/ORCID-f9f9f9?style=for-the-badge&logo=orcid&logoColor=ffffff&labelColor=A6CE39" alt="ORCID"></a>
+  <a href="https://www.webofscience.com/wos/author/record/T-1462-2018"><img src="https://img.shields.io/badge/Web_of_Science-f9f9f9?style=for-the-badge&logo=clarivate&logoColor=ffffff&labelColor=5E33C0" alt="Web of Science"></a>
+  <a href="http://www.scopus.com/inward/authorDetails.url?authorID=57216227909"><img src="https://img.shields.io/badge/Scopus-f9f9f9?&style=for-the-badge&logo=scopus&logoColor=ffffff&labelColor=E9711C" alt="Scopus"></a>
+  <a href="https://scholar.google.co.in/citations?user=ugmCylsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-f9f9f9?style=for-the-badge&logo=google-scholar&logoColor=ffffff&labelColor=4285F4" alt="Google Scholar"></a>
+  <a href="https://www.researchgate.net/profile/Abhishek-Kumar-331"><img src="https://img.shields.io/badge/Research_Gate-f9f9f9?&style=for-the-badge&logo=researchgate&logoColor=ffffff&labelColor=00ccbb" alt=""></a>
+  <a href="https://github.com/kumar-a"><img src="https://img.shields.io/badge/github-f9f9f9?&style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717" alt=""></a>
 </p>
 
 
@@ -28,13 +29,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💼 Skills
+## 💼 What I Use
 
 <p align="center">
-  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
-  <a href="https://www.rstudio.com/"><img src="https://img.shields.io/badge/RStudio%20IDE-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" alt="RStudio"></a>
-  <a href="https://www.mendeley.com/"><img src="https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=Mendeley&logoColor=white" alt="Mendeley"></a>
-  <a href="https://www.office.com/"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office"></a>
+  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-f9f9f9?style=for-the-badge&logo=r&logoColor=ffffff&labelColor=276DC3" alt="R"></a>
+  <a href="https://www.rstudio.com/"><img src="https://img.shields.io/badge/RStudio_IDE-f9f9f9?style=for-the-badge&logo=rstudioide&logoColor=ffffff&labelColor=75AADB" alt="RStudio"></a>
+  <a href="https://www.mendeley.com/"><img src="https://img.shields.io/badge/Mendeley-f9f9f9?style=for-the-badge&logo=Mendeley&logoColor=ffffff&labelColor=9D1620" alt="Mendeley"></a>
+  <a href="https://www.office.com/"><img src="https://img.shields.io/badge/Microsoft_Office-f9f9f9?style=for-the-badge&logo=google-docs&logoColor=ffffff&labelColor=D83B01" alt="Office"></a>
 </p>
 
 
@@ -63,8 +64,9 @@ Here are some ideas to get you started:
 ## Contact Me
 
 <p align="center">
-  <a href="mailto:abhikumar.pu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"></a>
-  <a href="https://x.com/abkumar_"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://facebook.com/abhikumar86"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://www.linkedin.com/in/abhikumar86/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abhikumar.pu@gmail.com"><img src="https://img.shields.io/badge/abhikumar.pu@gmail.com-f9f9f9?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="GMail"></a>
+  <a href="https://x.com/abkumar_"><img src="https://img.shields.io/badge/abkumar__-f9f9f9?style=for-the-badge&logo=x&logoColor=000000" alt="X"></a>
+  <a href="https://bsky.app/profile/abkumar.bsky.social"><img src="https://img.shields.io/badge/abkumar.bsky.social-f9f9f9?style=for-the-badge&logo=bluesky&logoColor=1185FE" alt="BlueSky"></a>
+  <a href="https://facebook.com/abhikumar86"><img src="https://img.shields.io/badge/abhikumar86-f9f9f9?style=for-the-badge&logo=Facebook&logoColor=1877F2" alt="Facebook"></a>
+  <a href="https://linktr.ee/abkum"><img src="https://img.shields.io/badge/abkum-f9f9f9?style=for-the-badge&logo=LinkTree&logoColor=43E55E" alt="LinkedIn"></a>
 </p>
