@@ -12,7 +12,7 @@
 </p>
 
 
-I am working as a senior research fellow at the Department of Botany of Panjab University, Chandigarh. My research interests include the responses of ecological structure and functions to climate change. Currently, I am working on the elevational pattern of plant distributions and diversity in the Siwalik Ecosystem.
+I am working as a Project Associate at *ICAR National Bureau of Plant Genetic Resources, New Delhi* under the DST-funded National Mission for Sustaining Himalayan Ecosystem (NMSHE). My broad research interests include the responses of ecological structure and functions to environmental change. Currently, I am working on the modelling habitat suitability and species distributions for Himalayan plant genetic resources.
 
 <!--
 **Abhikumar86/abhikumar86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 
 ## 📝 Selected Publications
+
+- Cooper, N., & BES Data and Code Hackathon Group (2026). Data- and code-archiving in the British Ecological Society journals: Present status and recommendations for future improvements. *Methods in Ecology and Evolution, 17*(7), 1954–1966. <https://doi.org/10.1111/2041-210x.70338>
 
 - **Kumar, A.**, Patil, M., Kumar, P., & Singh, A. N. (2025). Elevational Patterns of Plant Species Richness: Insights from Western Himalayas. *Forests, 16*(10), 1591. <https://doi.org/10.3390/f16101591>
 
